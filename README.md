@@ -40,12 +40,14 @@
   <img width="14" />
   <img src="./Shadcn.png" height="36" alt="shadcn logo"  />
   <img width="14" />
+  <br/>
+  <br/>
   <img src="./Zod Image.png" height="36" alt="zod logo"  />
   <img width="14" />
   <img src="./React hook from.png" height="36" alt="react hook form logo"  />
-  <img width="14" />
+  <img width="16" />
    <img src="./Rest.png" height="36" alt="rest logo"  />
-  <img width="14" />
+  <img width="16" />
 
 
 </div>
