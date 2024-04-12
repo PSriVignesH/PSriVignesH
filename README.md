@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**PSriVignesH/PSriVignesH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Im Sri Vignesh!
 
-Here are some ideas to get you started:
+### About me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Im a Passionate full-stack web developer . I like to work with texhs like ReactJS, Next.js, TypeScript, Prisma, Redux Toolkit, Zustand, and REST API. Experienced in crafting efficient, 
+ scalable web applications with modern technologies . Open to new opportunities and collaborations. Feel free to reach out via email or LinkedIn.
+
+ #### "Eat Sleep Code Repeat , until you suceed"!👋
+ 
+
+
+
+
+
