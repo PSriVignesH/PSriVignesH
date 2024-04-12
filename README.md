@@ -3,7 +3,7 @@
 
 ### About me  
 
- Im a Passionate full-stack web developer . I like to work with Tech Stacks like ReactJS, Next.js, TypeScript, Prisma, Redux Toolkit, Zustand, and REST API. Experienced in crafting efficient, 
+ Im a Passionate full-stack web developer with 2.5 years of expericence . I like to work with Tech Stacks like ReactJS, Next.js, TypeScript, Prisma, Redux Toolkit, Zustand, and REST API. Experienced in crafting efficient, 
  scalable web applications with modern technologies . Open to new opportunities and collaborations. Feel free to reach out via email or LinkedIn.
 
  #### "Eat Sleep Code and Repeat , until you Succeed"!👋
