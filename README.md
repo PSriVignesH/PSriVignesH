@@ -30,7 +30,24 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
   <img width="14" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="36" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="prisma logo"  />
+  <img width="14" />
+  <img src="./Zustabd image.png" height="40" alt="zustand logo"  />
+  <img width="14" />
+  <img src="./Clerk Auth.png" height="36" alt="clerk logo"  />
+  <img width="14" />
+  <img src="./Next Auth.png" height="36" alt="next auth logo"  />
+  <img width="14" />
+  <img src="./Shadcn.png" height="36" alt="shadcn logo"  />
+  <img width="14" />
+  <img src="./Zod Image.png" height="36" alt="zod logo"  />
+  <img width="14" />
+  <img src="./React hook from.png" height="36" alt="react hook form logo"  />
+  <img width="14" />
+   <img src="./Rest.png" height="36" alt="rest logo"  />
+  <img width="14" />
+
+
 </div>
 
 ### Connect with me 
@@ -55,9 +72,17 @@
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PSriVignesH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=PSriVignesH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
+ <br/>
+ <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=psrivignesh&show_icons=true&theme=dracula&locale=en" alt="psrivignesh" />
+  <br/>
+ <br/>
+  <img  align="center" src="./giphy.gif"  height="170" alt="gif"/>
+ <br/>
 </div>
 
+ <br/>
+ 
 ### My Github trophies 
 
    <div align="center">
