@@ -40,8 +40,6 @@
   <img width="14" />
   <img src="./Shadcn.png" height="36" alt="shadcn logo"  />
   <img width="14" />
-  <br/>
-  <br/>
   <img src="./Zod Image.png" height="36" alt="zod logo"  />
   <img width="14" />
   <img src="./React hook from.png" height="36" alt="react hook form logo"  />
