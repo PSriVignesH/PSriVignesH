@@ -1,4 +1,4 @@
-![Header](./Github%20profile%20banner.png)
+![Header](https://res.cloudinary.com/djndliwao/image/upload/v1713442984/gbq3jpyuxtlm2aqikmj5.png)
 ### Hi there 👋 Im Sri Vignesh!
 
 ### About me  
@@ -38,7 +38,7 @@
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442372/pabwfdkczxvnp8kmvhiw.png" height="36" alt="next auth logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/shadcnui/#000000" height="36" alt="shadcn logo"  />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442655/y666cfnkymbeackmttyh.png" height="36" alt="shadcn logo"  />
   <img width="14" />
   <br/>
   <br/>
@@ -46,11 +46,11 @@
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442541/qvdovw9cj6uh7sgs0tn8.png" height="36" alt="react hook form logo"  />
   <img width="16" />
-   <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/6ecfc286-2547-47b9-9d00-d54b11533595" height="36" alt="Framer gif"  />
+   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442810/nhep06szrxeixtr7a7tp.gif" height="36" alt="Framer gif"  />
   <img width="16" />
-   <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/15725744-f9e5-4c5c-a627-e17002ff84f2" height="36" alt="framer logo"  />
+   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442863/nl7neba9caehvzudr9i6.png" height="36" alt="framer logo"  />
   <img width="16" />
- <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/b8f33806-5a57-4659-82b8-d1090ced8c9a" height="36" alt="framer logo"  />
+ <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442919/mnvgc91hhjow9vrzp2uk.png" height="36" alt="Rest Api logo"  />
   <img width="16" />
 </div>
 
