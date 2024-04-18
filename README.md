@@ -97,7 +97,7 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PSriVignesH/PSriVignesH/output/snake.svg" alt="Snake animation" />
+<img src="https://res.cloudinary.com/djndliwao/image/upload/v1713443319/ifsfr0boi3vlrtl8dvox.svg" alt="Snake animation" />
 
 
 
