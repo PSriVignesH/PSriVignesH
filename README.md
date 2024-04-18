@@ -32,24 +32,26 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="prisma logo"  />
   <img width="14" />
-  <img src="./Zustabd image.png" height="40" alt="zustand logo"  />
+  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/5fba82eb-8d3a-420c-8252-b2b3cbd1201b" height="40" alt="zustand logo"  />
   <img width="14" />
-  <img src="./Clerk Auth.png" height="36" alt="clerk logo"  />
+  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/70d38eca-3665-44ee-929e-5d059ac95ad0" height="36" alt="clerk logo"  />
   <img width="14" />
-  <img src="./Next Auth.png" height="36" alt="next auth logo"  />
+  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/df851032-3623-4c13-9b16-286ec8c55f8d" height="36" alt="next auth logo"  />
   <img width="14" />
-  <img src="./Shadcn.png" height="36" alt="shadcn logo"  />
+  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/d6245a48-4f71-4ecc-88fe-9d2d2ef6a5a1" height="36" alt="shadcn logo"  />
   <img width="14" />
   <br/>
   <br/>
-  <img src="./Zod Image.png" height="36" alt="zod logo"  />
+  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/8e771dc4-2078-4105-98f3-3120f7fa1ed5" height="36" alt="zod logo"  />
   <img width="14" />
-  <img src="./React hook from.png" height="36" alt="react hook form logo"  />
+  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/6ef68a00-f400-471d-9fe2-5bcfdf3d389e" height="36" alt="react hook form logo"  />
   <img width="16" />
-   <img src="./Rest.png" height="36" alt="rest logo"  />
+   <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/6ecfc286-2547-47b9-9d00-d54b11533595" height="36" alt="Framer gif"  />
   <img width="16" />
-
-
+   <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/15725744-f9e5-4c5c-a627-e17002ff84f2" height="36" alt="framer logo"  />
+  <img width="16" />
+ <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/b8f33806-5a57-4659-82b8-d1090ced8c9a" height="36" alt="framer logo"  />
+  <img width="16" />
 </div>
 
 ### Connect with me 
