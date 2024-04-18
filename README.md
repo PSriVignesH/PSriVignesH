@@ -34,7 +34,7 @@
   <img width="14" />
   <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/5fba82eb-8d3a-420c-8252-b2b3cbd1201b" height="40" alt="zustand logo"  />
   <img width="14" />
-  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/70d38eca-3665-44ee-929e-5d059ac95ad0" height="36" alt="clerk logo"  />
+  <img src="https://cdn.simpleicons.org/clerk/#6C47FF" height="36" alt="clerk logo"  />
   <img width="14" />
   <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/df851032-3623-4c13-9b16-286ec8c55f8d" height="36" alt="next auth logo"  />
   <img width="14" />
