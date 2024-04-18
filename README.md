@@ -32,19 +32,19 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="prisma logo"  />
   <img width="14" />
-  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/5fba82eb-8d3a-420c-8252-b2b3cbd1201b" height="40" alt="zustand logo"  />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442452/jprrfndy27ypdclevgek.png" height="40" alt="zustand logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/clerk/#6C47FF" height="36" alt="clerk logo"  />
   <img width="14" />
-  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/df851032-3623-4c13-9b16-286ec8c55f8d" height="36" alt="next auth logo"  />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442372/pabwfdkczxvnp8kmvhiw.png" height="36" alt="next auth logo"  />
   <img width="14" />
-  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/d6245a48-4f71-4ecc-88fe-9d2d2ef6a5a1" height="36" alt="shadcn logo"  />
+  <img src="https://cdn.simpleicons.org/shadcnui/#000000" height="36" alt="shadcn logo"  />
   <img width="14" />
   <br/>
   <br/>
-  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/8e771dc4-2078-4105-98f3-3120f7fa1ed5" height="36" alt="zod logo"  />
+  <img src="https://cdn.simpleicons.org/zod/#3E67B1" height="36" alt="zod logo"  />
   <img width="14" />
-  <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/6ef68a00-f400-471d-9fe2-5bcfdf3d389e" height="36" alt="react hook form logo"  />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442541/qvdovw9cj6uh7sgs0tn8.png" height="36" alt="react hook form logo"  />
   <img width="16" />
    <img src="https://github.com/PSriVignesH/personal-portfolio/assets/111482290/6ecfc286-2547-47b9-9d00-d54b11533595" height="36" alt="Framer gif"  />
   <img width="16" />
