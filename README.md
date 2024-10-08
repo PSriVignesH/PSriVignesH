@@ -34,7 +34,7 @@
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442452/jprrfndy27ypdclevgek.png" height="40" alt="zustand logo"  />
   <img width="14" />
-  <img src=https://res.cloudinary.com/djndliwao/image/upload/v1728381617/loxam5ryejuxc0mhg6be.png" height="36" alt="clerk logo"  />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1728381617/loxam5ryejuxc0mhg6be.png" height="36" alt="clerk logo"  />
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442372/pabwfdkczxvnp8kmvhiw.png" height="36" alt="next auth logo"  />
   <img width="14" />
@@ -51,6 +51,8 @@
    <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442863/nl7neba9caehvzudr9i6.png" height="36" alt="framer logo"  />
   <img width="16" />
  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442919/mnvgc91hhjow9vrzp2uk.png" height="36" alt="Rest Api logo"  />
+  <img width="16" />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1728382334/yn0xqjcpnrh68siaxkc7.png" height="36" alt="React Query logo"  />
   <img width="16" />
 </div>
 
