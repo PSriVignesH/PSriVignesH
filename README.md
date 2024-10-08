@@ -3,7 +3,7 @@
 
 ### About me  
 
- Im a Passionate full-stack web developer with 2.5 years of expericence . I like to work with Tech Stacks like ReactJS, Next.js, TypeScript, Prisma, Redux Toolkit, Zustand, and REST API. Experienced in crafting efficient, 
+ Im a Passionate full-stack web developer with 2 years and 9 months of experience . I like to work with Tech Stacks like ReactJS, Next.js, TypeScript, Prisma, Redux Toolkit, Zustand, and REST API. Experienced in crafting efficient, 
  scalable web applications with modern technologies . Open to new opportunities and collaborations. Feel free to reach out via email or LinkedIn.
 
  #### "Eat Sleep Code and Repeat , until you Succeed"!👋
@@ -34,7 +34,7 @@
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442452/jprrfndy27ypdclevgek.png" height="40" alt="zustand logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/clerk/#6C47FF" height="36" alt="clerk logo"  />
+  <img src=https://res.cloudinary.com/djndliwao/image/upload/v1728381617/loxam5ryejuxc0mhg6be.png" height="36" alt="clerk logo"  />
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442372/pabwfdkczxvnp8kmvhiw.png" height="36" alt="next auth logo"  />
   <img width="14" />
@@ -42,7 +42,7 @@
   <img width="14" />
   <br/>
   <br/>
-  <img src="https://cdn.simpleicons.org/zod/#3E67B1" height="36" alt="zod logo"  />
+  <img src="https://res.cloudinary.com/djndliwao/image/upload/v1728381979/rfkcx0ameskzujatmkye.svg" height="36" alt="zod logo"  />
   <img width="14" />
   <img src="https://res.cloudinary.com/djndliwao/image/upload/v1713442541/qvdovw9cj6uh7sgs0tn8.png" height="36" alt="react hook form logo"  />
   <img width="16" />
